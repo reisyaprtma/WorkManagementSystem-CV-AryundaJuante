@@ -83,14 +83,17 @@ Black Box Testing with 15 main feature scenarios → **100% passed** without cri
 ## 🖼️ Screenshots
 
 Login
+
 <img width="633/2" height="308/2" alt="image" src="https://github.com/user-attachments/assets/f9864c6c-5948-40b7-8727-250f0e8a19a7" />
 
 Admin Dashboard
+
 <img width="600/2" height="296/2" alt="image" src="https://github.com/user-attachments/assets/82876450-f0dd-4d0a-869c-0f6499f99283" />
 <img width="598/2" height="294/2" alt="image" src="https://github.com/user-attachments/assets/48604c7b-6243-4a11-a2a6-1e592ca3ff47" />
 <img width="604/2" height="298/2" alt="image" src="https://github.com/user-attachments/assets/6dfdc450-39c6-4dc9-b049-8d2336e19c95" />
 
 Woker Dashboard
+
 <img width="411/2" height="712/2" alt="image" src="https://github.com/user-attachments/assets/376b3ed9-17af-4cbf-84d3-f3698161a0ea" />
 
 
